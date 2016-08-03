@@ -11,6 +11,8 @@ color:white;
 .days{
   font-family: fantasy;
   text-decoration: overline;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .day{
@@ -18,6 +20,8 @@ color:white;
   font-size: 15px;
   border: solid;
   border-width: thin;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .da{
@@ -25,9 +29,16 @@ color:white;
   font-family: cursive;
   border: solid;
   border-width: 2px 4px 2px 4px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .d{
   font-family: monospace;
   background-color:  #66ccff;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body{
+  background-image: url("http://static.vecteezy.com/system/resources/previews/000/094/491/original/polygonal-texture-background-vector.jpg");
 }
