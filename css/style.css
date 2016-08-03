@@ -1,0 +1,33 @@
+.about{
+color:white;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  text-shadow: 3px 3px black;
+  background-image: url("http://www.thechannels.org/wp-content/uploads/2015/11/METComp03Final-900x600.jpg");
+  opacity: .65;
+}
+
+.days{
+  font-family: fantasy;
+  text-decoration: overline;
+}
+
+.day{
+  font-style: italic;
+  font-size: 15px;
+  border: solid;
+  border-width: thin;
+}
+
+.da{
+  font-weight: lighter;
+  font-family: cursive;
+  border: solid;
+  border-width: 2px 4px 2px 4px;
+}
+
+.d{
+  font-family: monospace;
+  background-color:  #66ccff;
+}
